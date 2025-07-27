@@ -8,7 +8,7 @@ import ListAlbum from './pages/ListAlbum'
 import SideBar from './components/SideBar';
 import NavBar from './components/NavBar';
 
-export const url = 'http://localhost:4000'
+export const url = 'https://spotify-clone-cyst.onrender.com/'
 
 const App = () => {
   return (
